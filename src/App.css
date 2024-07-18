@@ -1,0 +1,161 @@
+#karachi{
+  color: rgba(255,43,133,255);
+  margin-top: 16px;
+  font-weight: 500px;
+  font-size: 14px;
+}
+#loc,#kas{
+  font-weight: 500;
+  font-size: 14px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+#logo{
+  margin-left: 25px;
+}
+#bg{
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  position: fixed;
+  width: 100%;
+  height: 30px;
+  z-index: 1;
+}
+.container-fluid{
+  background-color: white;
+  margin-top: 10px;
+  padding: 0;
+  height: 55px;
+}
+#location{
+  margin-left: 270px;
+  margin-top: 4px;
+}
+#locationimg{
+  margin-bottom: 3px;
+}
+#kashif{
+  margin-left: 330px;
+}
+#profileimg{
+  height: 30px;
+  margin-bottom: 3px;
+}
+#sec1{
+  background-image: url(background.jpg);
+  height: 460px;
+}
+#sec1txt{
+  width: 700px;
+  font-weight: bold;
+  padding-top: 100px;
+  padding-left: 50px;
+}
+#hometxt{
+  color: rgba(255,43,133,255);
+  font-size: 15px;
+}
+
+#homeline{
+  height: 2px;
+  background-color:  rgba(255,43,133,255);
+  width: 76px;
+}
+#homepage{
+  margin-top: 30px;
+  margin-left: 60px;
+}
+#cardimg{
+  height: 200px;
+  width: 380px;
+  animation-name: scaling;
+  animation-duration: 1s; 
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+
+}
+#img{
+  overflow: hidden;
+  border-radius: 5px 5px 0px 0px;
+}
+@keyframes scaling {
+  0% {transform: none;}
+  100% {transform: scale(1.1);}
+}
+#textsec{
+  width: 500px;
+}
+#cardtxt1{
+  margin-left: 170px;
+  font-size: 12px;
+  color: rgb(104, 104, 104);
+}
+#cardtxt2{
+  margin-left: 200px;
+  font-size: 12px;
+  color: rgb(104, 104, 104);
+}
+#cardtxt3{
+  margin-left: 190px;
+  font-size: 12px;
+  color: rgb(104, 104, 104);
+}
+#cardtxt{
+  font-size: 12px;
+  color: rgb(104, 104, 104);
+}
+.card{
+  border: none;
+  width: 380px;
+  height: 230px;
+  position:static;
+ 
+}
+.card-body{
+  height: 75px;
+}
+#data{
+  /* width:0px; */
+  padding: 0px;
+  margin: 0px;
+}
+#main{
+  margin-left: 40px;
+  margin-top: 30px;
+
+}
+.col{
+  margin-left: 20px;
+}
+.row1{
+  display: flex;
+}
+#add{
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+#add2{
+  width: 1150px;
+  margin-left: 85px;
+  margin-top: 40px;
+}
+#line{
+  width: 1px;
+  background-color: black;
+  height: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#navbar{
+  width: 91%;
+  margin-left: 65px;
+  margin-top: 40px;
+}
+.container-fluid{
+  display: flex;
+  margin-top: 40px;
+}
+#fbinsta{
+  margin-left: 700px;
+}
