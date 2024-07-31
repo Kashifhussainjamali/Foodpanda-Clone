@@ -1,6 +1,6 @@
 # Foodpanda-Clone
 
-Created Foodpanda clone with the help of React & Bootstrap have uploaded the file and templete video bellow
+Created Foodpanda clone with using React have uploaded the file and templete video bellow
 
 
 
